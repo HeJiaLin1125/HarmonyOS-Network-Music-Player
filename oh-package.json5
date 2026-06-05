@@ -5,7 +5,7 @@
   },
   "author": "",
   "name": "hmnetworkmusicplayer",
-  "description": "Please describe the basic information.",
+  "description": "HarmonyOS Music Player",
   "main": "",
   "version": "1.0.0",
   "dependencies": {
